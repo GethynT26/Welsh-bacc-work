@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+nav {
+    background-color:#ED985E ;
+    height: 10.5vh;
+}
+
+#logo {
+    height: 95px;
+    padding-top: 0.60vh;
+}
