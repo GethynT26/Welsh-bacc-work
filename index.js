@@ -6,8 +6,8 @@ const quizData = [
     },
     {
       question: "Which one of these activities is most effective for reducing stress?",
-      options: ["Overworking", "Exercise", "Watching TV", "Moving houses"],
-      answer: "Exercise"
+      options: ["Overworking", "Exercising", "Watching TV", "Moving houses"],
+      answer: "Exercising"
     },
     {
         question: "What is the most common mental health disorder worldwide?",
